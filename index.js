@@ -145,3 +145,5 @@ document.getElementById('btnCountSmileyFaces').addEventListener('click', functio
   <li>${ countSmileys([]) }</li>
   `;
 });
+
+//insert ger
